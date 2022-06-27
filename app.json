@@ -1,13 +1,13 @@
 {
-    "name": "xray-heroku",
-    "description": "deploy xray to heroku",
+    "name": "sarindu's bed",
+    "description": "gota go home",
     "keywords": ["xray"],
     "env": {
         "UUID": {
             "description": "xray UUID",
-            "value": "36cfc3de-ecfd-4752-ae6f-8f0f92035143"        
+            "value": "ed7a5fd6-8a63-48a8-ac90-2553b5cc7a8d"        
         }
     },
-    "repository": "https://github.com/iamtrazy/xray-heroku",
+    "repository": "https://github.com/sarinduhimash/xray-sarindu",
     "stack": "container"
 }
